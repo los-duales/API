@@ -1,0 +1,14 @@
+[
+	{
+		"Nombre" : "botas",
+		"imagen" : "img/portfolio/descarga.jpg"
+	},
+	{
+		"Nombre" : "Chaleco con reflector",
+		"imagen" : "img/portfolio/chalecos.jpg"	
+	},
+	{
+		"Nombre" : "Guantes",
+		"imagen" : "img/portfolio/fullsize/guantes.jpg"	
+	}
+]
