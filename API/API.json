@@ -1,11 +1,14 @@
 [
 	{
-		"info" : "La INNOVACIÓN y el DESARROLLO están en nuestra esencia, creemos firmemente en que todo puede hacerse siempre de una forma mejor.Gracias a este principio hemos logrado desarrollar soluciones únicas en el mercado, que permiten aumentar de manera significativa la seguridad para personas, reduciendo al mismo tiempo costos operativos.",
+		 "info" : "La INNOVACIÓN y el DESARROLLO están en nuestra esencia, creemos firmemente en que todo puede hacerse siempre de una forma mejor.Gracias a este principio hemos logrado desarrollar soluciones únicas en el mercado, que permiten aumentar de manera significativa la seguridad para personas, reduciendo al mismo tiempo costos operativos.",
 		"imagen" : "img/portfolio/descarga.jpg"
 	},
 	{
-		"info" : "hola",
+		"info" : "Gracias a este principio hemos logrado desarrollar soluciones únicas en el mercado, que permiten aumentar de manera significativa la seguridad para personas, reduciendo al mismo tiempo costos operativos.",
 		"imagen" : "img/portfolio/chalecos.jpg"	
 	},
-	
+	{
+		"Nombre" : "Guantes",
+		"imagen" : "img/portfolio/fullsize/guantes.jpg"	
+	}
 ]
